@@ -1,6 +1,10 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 reference.txt
+/.mvn/
+mvnw
+mvnw.cmd
+/src/test/
 
 ### STS ###
 .apt_generated
