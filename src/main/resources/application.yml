@@ -1,10 +1,10 @@
 amazon:
   access:
-    key: AKIAJSSZS6I4DFXLAUUQ
-    secret-key: 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
-  region: eu-west-2
+    key: XXXXXXXXXXXXX
+    secret-key: XXXXXXXXXXXXXXXXXXXXXX
+  region: XXXXXXX
   end-point:
-    url: dynamodb.eu-west-2.amazonaws.com
+    url: XXXXXXXXXXX
     
 server:
-  port: 9001
+  port: XXXX
